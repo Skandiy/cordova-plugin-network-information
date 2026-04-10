@@ -42,7 +42,6 @@ interface Connection {
      *     Connection.CELL_2G
      *     Connection.CELL_3G
      *     Connection.CELL_4G
-     *     Connection.CELL_5G
      *     Connection.CELL
      *     Connection.NONE
      */
@@ -58,7 +57,6 @@ declare var Connection: {
     CELL_2G: string;
     CELL_3G: string;
     CELL_4G: string;
-    CELL_5G: string;
     CELL: string;
     NONE: string;
 }
